@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'testapp';
+  var1 = "Variable created in BR1"
 }
