@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./comp3.component.css']
 })
 export class Comp3Component {
-
+var2 = "123"
 }
