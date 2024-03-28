@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class Comp3Component {
 var2 = "123"
+var3 = "456"
 }
